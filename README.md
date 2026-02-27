@@ -138,4 +138,4 @@ MIT License - Part of the NullSec Framework
 ## Author
 
 - GitHub: [bad-antics](https://github.com/bad-antics)
-- Discord: [x.com/AnonAntics](https://x.com/AnonAntics)
+- Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)
